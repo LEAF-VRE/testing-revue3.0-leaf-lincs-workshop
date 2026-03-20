@@ -33,7 +33,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/testing-revue3.0-leaf-lincs-workshop/main/leaf-writer-documents/ILTC_2024_2_Manifeste_05_Ngadi_Maissa-original.xml?thing_annotation_20260320091330035",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-03-20T13:13:30.035Z",
-	"dcterms:modified": "2026-03-20T13:13:30.035Z",
+	"dcterms:modified": "2026-03-20T13:14:47.639Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/SusanBrown",
 		"@type": [
